@@ -1,0 +1,9 @@
+polars==0.19.3
+pytorch-lifestream
+catboost
+numpy
+pandas
+tqdm
+torch
+torchinfo
+torchmetrics
